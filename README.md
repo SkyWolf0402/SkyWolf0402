@@ -1,4 +1,4 @@
-![Banner](https://wallpaperbat.com/img/264133-4k-60fps-ultrawide-wallpaper-engine-see-desc.jpg)
+![Banner](https://i.imgur.com/BpTwvHA.jpg)
 
 # ABOUT ME
 
