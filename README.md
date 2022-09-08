@@ -14,7 +14,7 @@ Well, there is nothing more you should know about me :>
 
 If you have any requests, questions or comments about our products, please do not hesitate to contact me.
 
-[![Discord](https://pngshare.com/wp-content/uploads/2021/06/Galaxy-Discord-Logo.png)](https://discordapp.com/users/973178992834269215)
+[![Discord](https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-1.png)](https://discordapp.com/users/973178992834269215)
 
 [![E-Mail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png)](mailto:josef.b@lvckyworld.net?subject=[GH]%20{Anfragegrund%20angeben})
 ---
