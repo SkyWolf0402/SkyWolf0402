@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/DBWfOnlvqhElw4ONPi/giphy-downsized-large.gif)
+![Banner](https://ibb.co/BGtKrNF)
 
 # ABOUT ME
 
