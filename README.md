@@ -1,16 +1,18 @@
-### Hi there 👋
+![Banner](https://camo.githubusercontent.com/93aceef5fe9f5789d731a485c541c991f5db7ad06c5e662fb7b88ac963d9304d/68747470733a2f2f692e6c76636b79776f726c642e6e65742f6c76636b792f62616e6e65722f6e657742616e6e65722e706e67)
+# About Me
 
-<!--
-**SkyWolf0402/SkyWolf0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Josef B. or JB / Spremberg, Germany
 
-Here are some ideas to get you started:
+## Languages
+[![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/SkyWolf0402?tab=repositories&q=&type=&language=typescript)
+[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/SkyWolf0402?tab=repositories&q=&type=&language=javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learned at
+Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
+
+## Social Media
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/641266097768890408)
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyWolf0402&theme=tokyonight)](https://github.com/SkyWolf0402/)
+[![stats](https://github-readme-stats.vercel.app/api?username=SkyWolf0402&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/SkyWolf0402)
