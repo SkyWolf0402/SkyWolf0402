@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/BGtKrNF)
+![Banner](https://c4.wallpaperflare.com/wallpaper/376/330/356/digital-art-artwork-illustration-concept-art-environment-hd-wallpaper-preview.jpg)
 
 # ABOUT ME
 
